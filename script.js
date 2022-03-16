@@ -391,7 +391,7 @@ window.onload = () => {
         }
     }
     function dorukO(){
-        /*const objective = new Date('May 17, 2022 00:00:00').getTime();
+        const objective = new Date('February 26, 2022 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
@@ -423,11 +423,11 @@ window.onload = () => {
         document.getElementById('doruk-o-hour').innerText = "-Over-";
         document.getElementById('doruk-o-minute').innerText = "-Over-";
         document.getElementById('doruk-o-second').innerText = "-Over-";
-        }*/
-        document.getElementById('doruk-o-day').innerText = "Dont know";
+        }
+        /*document.getElementById('doruk-o-day').innerText = "Dont know";
         document.getElementById('doruk-o-hour').innerText = "Dont know";
         document.getElementById('doruk-o-minute').innerText = "Dont know";
-        document.getElementById('doruk-o-second').innerText = "Dont know";
+        document.getElementById('doruk-o-second').innerText = "Dont know";*/
     }
     function ecrin(){
         const objective = new Date('September 14, 2022 00:00:00').getTime();
@@ -609,7 +609,7 @@ window.onload = () => {
         }
     }
     function berat(){
-        /*const objective = new Date('May 17, 2022 00:00:00').getTime();
+        const objective = new Date('September 22, 2022 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
@@ -641,11 +641,11 @@ window.onload = () => {
         document.getElementById('berat-hour').innerText = "-Over-";
         document.getElementById('berat-minute').innerText = "-Over-";
         document.getElementById('berat-second').innerText = "-Over-";
-        }*/
-        document.getElementById('berat-day').innerText = "Dont know";
+        }
+        /*document.getElementById('berat-day').innerText = "Dont know";
         document.getElementById('berat-hour').innerText = "Dont know";
         document.getElementById('berat-minute').innerText = "Dont know";
-        document.getElementById('berat-second').innerText = "Dont know";
+        document.getElementById('berat-second').innerText = "Dont know";*/
     }
     function melih(){
         const objective = new Date('December 26, 2022 00:00:00').getTime();
@@ -753,7 +753,7 @@ window.onload = () => {
         }
     }
     function yagiz(){
-        const objective = new Date('June 17, 2022 00:00:00').getTime();
+        const objective = new Date('June 25, 2022 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
