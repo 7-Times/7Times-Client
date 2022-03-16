@@ -321,7 +321,7 @@ window.onload = () => {
         }
     }
     function halit(){
-        const objective = new Date('August 17, 2022 00:00:00').getTime();
+        const objective = new Date('August 20, 2022 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
