@@ -391,7 +391,7 @@ window.onload = () => {
         }
     }
     function dorukO(){
-        const objective = new Date('February 26, 2022 00:00:00').getTime();
+        const objective = new Date('February 26, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
