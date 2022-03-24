@@ -12,7 +12,7 @@ window.onload = () => {
     
     
         //fetch the data and set the response to variable
-        fetch('http://127.0.0.1:3000/latest/quiz')
+        fetch('https://server-for-7times.herokuapp.com/latest/quiz')
         .then(response => response.json())
         .then(data => {
             let quiz = data;
