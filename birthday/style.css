@@ -1,0 +1,70 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/* align 4 divs per row */
+
+div{
+    background-image: transparent;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.container{
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    width: 100%;
+    margin: 0 auto;
+}
+
+body{
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+.selin{
+    background: linear-gradient(320deg, rgba(255,0,0,1) 0%, rgba(116,116,116,1) 100%);
+}
+.dogu{
+    background: linear-gradient(320deg, rgba(255,139,0,1) 0%, rgba(189,73,90,1) 100%);
+}
+.arkin{
+    background: linear-gradient(320deg, rgba(54,127,255,1) 0%, rgba(210,79,255,1) 100%);
+}
+.arda{
+    background: linear-gradient(114deg, rgba(205,116,7,1) 0%, rgba(215,0,31,1) 100%);
+}
+.cemre{
+    background: linear-gradient(326deg, rgba(255,117,0,1) 0%, rgba(119,82,88,1) 100%);
+}
+.nisanur{
+    background: linear-gradient(326deg, rgba(50,158,36,1) 0%, rgba(119,82,88,1) 100%);
+}
+.doruk-e{ 
+    background: linear-gradient(326deg, rgba(0,160,223,1) 0%, rgba(119,82,88,1) 100%);
+}
+.ecrin{
+    background: linear-gradient(326deg, rgba(4,230,176,1) 0%, rgba(119,82,88,1) 100%);
+}
+.nisa{
+    background: linear-gradient(326deg, rgba(148,42,215,1) 0%, rgba(119,82,88,1) 100%);
+}
+.melih{ 
+    background: linear-gradient(326deg, rgba(222,51,51,1) 0%, rgba(119,82,88,1) 100%);
+}
+.meliksah{ 
+    background: linear-gradient(326deg, rgba(255,237,0,1) 0%, rgba(119,82,88,1) 100%);
+}
+.sila{
+    background: linear-gradient(326deg, rgba(0,234,255,1) 0%, rgba(119,82,88,1) 100%);
+}
+.yagiz{
+    background: linear-gradient(326deg, rgba(15,160,227,1) 0%, rgba(33,219,156,1) 100%);
+}
+.yagmur{
+    background: linear-gradient(326deg, rgba(244,108,7,1) 0%, rgba(119,82,88,1) 100%);
+}
+.tunahan{
+    background: linear-gradient(326deg, rgba(244,108,7,1) 0%, rgba(119,82,88,1) 100%);
+}
+.mehmet{
+    background: linear-gradient(326deg, rgba(12,152,217,1) 0%, rgba(61,217,172,1) 100%);
+}
