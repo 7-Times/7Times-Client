@@ -19,6 +19,7 @@ window.onload = () => {
             console.log(quiz);
             quizText1.innerHTML = "Closest Quiz/Test: " + quiz[0].date + " " + quiz[0].className;
             quizText2.innerHTML = "2nd Closest Quiz/Test: " + quiz[1].date + " " + quiz[1].className;
+            quizText3.innerHTML = "3rd Closest Quiz/Test: " + quiz[2].date + " " + quiz[2].className;
         })
     }
     getData();
