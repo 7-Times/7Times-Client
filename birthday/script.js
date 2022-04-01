@@ -574,7 +574,7 @@ window.onload = () => {
         }
     }
     function nisa(){
-        const objective = new Date('March 30, 2022 00:00:00').getTime();
+        const objective = new Date('March 30, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
@@ -967,7 +967,7 @@ window.onload = () => {
         }
     }
     function umay(){
-        const objective = new Date('March 31, 2022 00:00:00').getTime();
+        const objective = new Date('March 31, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
