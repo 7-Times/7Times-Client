@@ -1,7 +1,3 @@
-//fetch random user and set the response to a variable
-let userName = {}
-
-
 window.onload = () => {
     let quizText1 = document.getElementById('quiz1');
     let quizText2 = document.getElementById('quiz2');
