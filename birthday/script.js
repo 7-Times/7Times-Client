@@ -1,6 +1,8 @@
 //alert("This is proably one of most stupidest projects I have ever made. ;)");
 
 window.onload = () => { 
+    let keys = "";
+    
     function dogu(){
         const objective = new Date('March 2, 2023 00:00:00').getTime();
         const now = new Date().getTime();
@@ -717,6 +719,13 @@ function dorukE(){
         document.getElementById('selin-second').innerText = "-Over-";
         }
     }
+    document.addEventListener('keydown', function(event) {
+        keys = keys + event.key.toLowerCase();
+        if (keys === "book") {
+            alert("You have found the secret code! Send a photo of this to me at: 0539 202 40 89 to get your name on the about page. :)");
+            keys = "";
+        }
+}, true);
     function sila(){
         const objective = new Date('November 4, 2022 00:00:00').getTime();
         const now = new Date().getTime();
