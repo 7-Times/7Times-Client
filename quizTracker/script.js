@@ -2,6 +2,7 @@ window.onload = () => {
     let quizText1 = document.getElementById('quiz1');
     let quizText2 = document.getElementById('quiz2');
     let quizText3 = document.getElementById('quiz3');
+    let loadingText = document.getElementById('loading');
     function getData() {
 
     
@@ -16,6 +17,7 @@ window.onload = () => {
             quizText1.innerHTML = "Closest Quiz/Test: " + quiz[0].date + " " + quiz[0].className;
             quizText2.innerHTML = "2nd Closest Quiz/Test: " + quiz[1].date + " " + quiz[1].className;
             quizText3.innerHTML = "3rd Closest Quiz/Test: " + quiz[2].date + " " + quiz[2].className;
+            loadingText.innerHTML = "";
         })
     }
     getData();
