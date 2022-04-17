@@ -26,10 +26,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('dogu-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('dogu-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('dogu-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('dogu-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('dogu-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('dogu-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('dogu-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('dogu-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('dogu-day').innerText = "-Over-";
@@ -61,10 +61,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('cagan-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('cagan-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('cagan-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('cagan-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('cagan-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('cagan-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('cagan-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('cagan-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('cagan-day').innerText = "-Over-";
@@ -96,10 +96,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('defne-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('defne-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('defne-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('defne-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('defne-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('defne-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('defne-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('defne-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('defne-day').innerText = "-Over-";
@@ -131,10 +131,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('arda-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('arda-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('arda-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('arda-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('arda-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('arda-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('arda-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('arda-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('arda-day').innerText = "-Over-";
@@ -166,10 +166,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('mustafa-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('mustafa-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('mustafa-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('mustafa-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('mustafa-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('mustafa-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('mustafa-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('mustafa-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('mustafa-day').innerText = "-Over-";
@@ -205,10 +205,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('eren-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('eren-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('eren-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('eren-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('eren-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('eren-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('eren-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('eren-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('eren-day').innerText = "-Over-";
@@ -240,10 +240,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('cemre-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('cemre-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('cemre-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('cemre-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('cemre-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('cemre-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('cemre-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('cemre-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('cemre-day').innerText = "-Over-";
@@ -275,10 +275,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('nisanur-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('nisanur-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('nisanur-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('nisanur-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('nisanur-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('nisanur-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('nisanur-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('nisanur-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('nisanur-day').innerText = "-Over-";
@@ -310,10 +310,10 @@ window.onload = () => {
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('halit-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('halit-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('halit-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('halit-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('halit-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('halit-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('halit-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('halit-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('halit-day').innerText = "-Over-";
@@ -345,10 +345,10 @@ function dorukE(){
     const currentMonth = new Date().getMonth() + 1;
     const currentYear = new Date().getFullYear();
     
-    document.getElementById('doruk-e-day').innerText = "Kalan gun:" + leftDay;
-    document.getElementById('doruk-e-hour').innerText = "Kalan saat:" + leftHour;
-    document.getElementById('doruk-e-minute').innerText = "Kalan dakika:" + leftMinute;
-    document.getElementById('doruk-e-second').innerText = "Kalan saniye:" + leftSecond;
+    document.getElementById('doruk-e-day').innerText = "Left Day[s]:" + leftDay;
+    document.getElementById('doruk-e-hour').innerText = "Left Hour[s]:" + leftHour;
+    document.getElementById('doruk-e-minute').innerText = "Left Minute[s]:" + leftMinute;
+    document.getElementById('doruk-e-second').innerText = "Left Second[s]:" + leftSecond;
     
     if(left < 0){
         document.getElementById('doruk-e-day').innerText = "-Over-";
@@ -380,10 +380,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('doruk-o-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('doruk-o-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('doruk-o-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('doruk-o-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('doruk-o-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('doruk-o-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('doruk-o-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('doruk-o-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('doruk-o-day').innerText = "-Over-";
@@ -419,10 +419,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('ecrin-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('ecrin-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('ecrin-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('ecrin-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('ecrin-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('ecrin-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('ecrin-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('ecrin-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('ecrin-day').innerText = "-Over-";
@@ -454,10 +454,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('asli-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('asli-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('asli-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('asli-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('asli-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('asli-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('asli-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('asli-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('asli-day').innerText = "-Over-";
@@ -489,10 +489,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('ekremdag-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('ekremdag-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('ekremdag-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('ekremdag-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('ekremdag-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('ekremdag-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('ekremdag-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('ekremdag-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('ekremdag-day').innerText = "-Over-";
@@ -528,10 +528,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('elif-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('elif-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('elif-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('elif-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('elif-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('elif-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('elif-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('elif-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('elif-day').innerText = "-Over-";
@@ -563,10 +563,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('nisa-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('nisa-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('nisa-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('nisa-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('nisa-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('nisa-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('nisa-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('nisa-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('nisa-day').innerText = "-Over-";
@@ -598,10 +598,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('berat-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('berat-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('berat-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('berat-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('berat-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('berat-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('berat-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('berat-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('berat-day').innerText = "-Over-";
@@ -637,10 +637,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('melih-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('melih-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('melih-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('melih-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('melih-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('melih-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('melih-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('melih-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('melih-day').innerText = "-Over-";
@@ -672,10 +672,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
         
-        document.getElementById('meliksah-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('meliksah-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('meliksah-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('meliksah-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('meliksah-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('meliksah-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('meliksah-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('meliksah-second').innerText = "Left Second[s]:" + leftSecond;
         
         if(left < 0){
             document.getElementById('meliksah-day').innerText = "-Over-";
@@ -707,10 +707,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('selin-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('selin-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('selin-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('selin-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('selin-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('selin-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('selin-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('selin-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('selin-day').innerText = "-Over-";
@@ -749,10 +749,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('sila-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('sila-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('sila-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('sila-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('sila-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('sila-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('sila-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('sila-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('sila-day').innerText = "-Over-";
@@ -784,10 +784,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('yagiz-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('yagiz-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('yagiz-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('yagiz-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('yagiz-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('yagiz-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('yagiz-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('yagiz-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('yagiz-day').innerText = "-Over-";
@@ -819,10 +819,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('tunahan-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('tunahan-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('tunahan-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('tunahan-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('tunahan-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('tunahan-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('tunahan-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('tunahan-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('tunahan-day').innerText = "-Over-";
@@ -858,10 +858,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('tuana-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('tuana-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('tuana-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('tuana-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('tuana-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('tuana-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('tuana-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('tuana-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('tuana-day').innerText = "-Over-";
@@ -893,10 +893,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('yagmur-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('yagmur-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('yagmur-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('yagmur-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('yagmur-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('yagmur-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('yagmur-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('yagmur-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('yagmur-day').innerText = "-Over-";
@@ -928,10 +928,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('arkin-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('arkin-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('arkin-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('arkin-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('arkin-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('arkin-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('arkin-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('arkin-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('arkin-day').innerText = "-Over-";
@@ -963,10 +963,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('mehmet-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('mehmet-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('mehmet-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('mehmet-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('mehmet-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('mehmet-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('mehmet-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('mehmet-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('mehmet-day').innerText = "-Over-";
@@ -998,10 +998,10 @@ function dorukE(){
         const currentMonth = new Date().getMonth() + 1;
         const currentYear = new Date().getFullYear();
     
-        document.getElementById('umay-day').innerText = "Kalan gun:" + leftDay;
-        document.getElementById('umay-hour').innerText = "Kalan saat:" + leftHour;
-        document.getElementById('umay-minute').innerText = "Kalan dakika:" + leftMinute;
-        document.getElementById('umay-second').innerText = "Kalan saniye:" + leftSecond;
+        document.getElementById('umay-day').innerText = "Left Day[s]:" + leftDay;
+        document.getElementById('umay-hour').innerText = "Left Hour[s]:" + leftHour;
+        document.getElementById('umay-minute').innerText = "Left Minute[s]:" + leftMinute;
+        document.getElementById('umay-second').innerText = "Left Second[s]:" + leftSecond;
     
         if(left < 0){
             document.getElementById('umay-day').innerText = "-Over-";
