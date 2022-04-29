@@ -253,7 +253,7 @@ window.onload = () => {
         }
     }
     function nisanur(){
-        const objective = new Date('April 27, 2022 00:00:00').getTime();
+        const objective = new Date('April 27, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
         
