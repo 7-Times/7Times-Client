@@ -322,7 +322,7 @@ window.onload = () => {
         document.getElementById('halit-second').innerText = "-Over-";
     }
 }
-function dorukE(){
+    function dorukE(){
     const objective = new Date('July 8, 2022 00:00:00').getTime();
     const now = new Date().getTime();
     const left = objective - now;
@@ -356,7 +356,7 @@ function dorukE(){
         document.getElementById('doruk-e-minute').innerText = "-Over-";
         document.getElementById('doruk-e-second').innerText = "-Over-";
     }
-}
+    }
     function dorukO(){
         const objective = new Date('February 26, 2023 00:00:00').getTime();
         const now = new Date().getTime();
