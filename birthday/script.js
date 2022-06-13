@@ -836,7 +836,7 @@ window.onload = () => {
         document.getElementById('tunahan-second').innerText = "Dont know";
     }
     function tuana(){
-        const objective = new Date('June 13, 2022 00:00:00').getTime();
+        const objective = new Date('June 13, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
