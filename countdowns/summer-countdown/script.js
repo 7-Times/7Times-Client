@@ -1,5 +1,5 @@
 const countdown = () => {
-    const objective = new Date('June 17, 2022 15:15:00').getTime();
+    const objective = new Date('June 17, 2022 14:30:00').getTime();
     const now = new Date().getTime();
     const left = objective - now;
 
