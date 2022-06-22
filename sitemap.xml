@@ -4,50 +4,74 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-            
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://7-times.netlify.app/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/birthday/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/quiztracker/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/hardtofindsoftware/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/countdowns/summer-countdown/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/morpatests/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/z-book-keys/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/to-do-app/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://7-times.netlify.app/python-playground/</loc>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://7-times.netlify.app/countdowns/summer-countdown/einsteinmode/</loc>
-  <lastmod>2022-05-08T09:47:44+00:00</lastmod>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://7-times.netlify.app/morpatests/7-Math-Apr/MK-MS-sorukagidi-matematik_s7nisan_2_22.pdf</loc>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://7-times.netlify.app/morpatests/7-Math-March/MK-MS-sorukagidi-matematik_s7mart_2_22.pdf</loc>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://7-times.netlify.app/morpatests/7-Math-March/MK-MS-cevapanahtar-matematik_s7mart_2_22.pdf</loc>
+  <lastmod>2022-06-22T10:17:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
