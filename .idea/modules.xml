@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../7-Times-Chat/.idea/7-Times-Chat.iml" filepath="$PROJECT_DIR$/../7-Times-Chat/.idea/7-Times-Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/7Times.iml" filepath="$PROJECT_DIR$/.idea/7Times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../7Times-Server/.idea/7Times-Server.iml" filepath="$PROJECT_DIR$/../7Times-Server/.idea/7Times-Server.iml" />
+    </modules>
+  </component>
+</project>
