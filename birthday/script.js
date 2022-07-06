@@ -183,7 +183,7 @@ window.onload = () => {
         document.getElementById('mustafa-second').innerText = "Dont know";
     }
     function eren(){
-        const objective = new Date('July 6, 2022 00:00:00').getTime();
+        const objective = new Date('July 6, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
         
@@ -762,7 +762,7 @@ window.onload = () => {
         }
     }
     function yagiz(){
-        const objective = new Date('June 25, 2022 00:00:00').getTime();
+        const objective = new Date('June 25, 2023 00:00:00').getTime();
         const now = new Date().getTime();
         const left = objective - now;
     
